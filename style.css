@@ -1,0 +1,17 @@
+body{
+    background-color:plum;
+}
+#container{
+    text-align:center;
+}
+.button{
+    border-radius: 10px;
+    background-color: salmon;
+    font-size: medium;
+}
+.button:hover{
+    background-color:red;
+}
+ul{
+    list-style-type: none;
+}
